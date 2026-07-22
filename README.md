@@ -1,6 +1,6 @@
 ### Hi, I'm Gayatri 👋
 
-DevOps-focused developer working on CI/CD automation, containerization, and infrastructure tooling.
+DevOps-focused engineer working on CI/CD automation, containerization, and infrastructure tooling.
 
 - 🔧 Currently working with Jenkins pipelines, Docker, Kubernetes, and Groovy scripting
 - 🌱 Exploring AI, AWS, and GCP
