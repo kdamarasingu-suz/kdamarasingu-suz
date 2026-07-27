@@ -15,7 +15,7 @@ DevOps-focused engineer working on CI/CD automation, containerization, and infra
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude Chrome Extension](https://img.shields.io/badge/-Claude Chrome Extension-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude Chrome Extension](https://img.shields.io/badge/-Claude%20Chrome%20Extension-412991?style=flat-square&logo=openai&logoColor=white)
 
 #### GitHub Stats
 ![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdamarasingu-suz&show_icons=true&theme=default)
