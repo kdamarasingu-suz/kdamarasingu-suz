@@ -12,6 +12,7 @@ DevOps-focused engineer working on CI/CD automation, containerization, and infra
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![K8sGPT](https://img.shields.io/badge/-K8sGPT-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white)
