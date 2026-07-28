@@ -57,7 +57,6 @@ I enjoy turning repetitive operational work into reliable, automated, and scalab
 
 If you find a repository useful or learn something from it, feel free to ⭐ star it, fork it, or share your feedback.
 
-## Regards,
-
-## Kumari Gayatri Damarasingu
+**Regards,**  
+**Kumari Gayatri Damarasingu**
 
