@@ -47,10 +47,10 @@ Senior DevOps / SRE Engineer working on CI/CD automation, cloud infrastructure, 
 My repositories focus on practical DevOps and SRE engineering while integrating AI or latest utilities or python automation to reduce operational effort
 
 Contents:
-kdamarasingu-suz/jenkinstoworkflows
-kdamarasingu-suz/k8sgpt
-kdamarasingu-suz/getlatestplugins
-kdamarasingu-suz/slibrary
+- [jenkinstoworkflows](https://github.com/kdamarasingu-suz/jenkinstoworkflows)
+- [k8sgpt](https://github.com/kdamarasingu-suz/k8sgpt)
+- [getlatestplugins](https://github.com/kdamarasingu-suz/getlatestplugins)
+- [slibrary](https://github.com/kdamarasingu-suz/slibrary)
 
 
 I enjoy turning repetitive operational work into reliable, automated, and scalable engineering solutions.
