@@ -19,8 +19,6 @@ Senior DevOps / SRE Engineer working on CI/CD automation, cloud infrastructure, 
 ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
-![SLI/SLO](https://img.shields.io/badge/-SLI%2FSLO-4CAF50?style=flat-square)
-![Incident Response](https://img.shields.io/badge/-Incident%20Response-D32F2F?style=flat-square)
 ![Prisma Cloud](https://img.shields.io/badge/-Prisma%20Cloud-1A4CFF?style=flat-square)
 ![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
@@ -30,7 +28,6 @@ Senior DevOps / SRE Engineer working on CI/CD automation, cloud infrastructure, 
 ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square)
 ![Google Vertex AI / Gemini](https://img.shields.io/badge/-Vertex%20AI%20%2F%20Gemini-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![K8sGPT](https://img.shields.io/badge/-K8sGPT-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude Chrome Extension](https://img.shields.io/badge/-Claude%20Chrome%20Extension-412991?style=flat-square&logo=openai&logoColor=white)
 
 
